@@ -1,0 +1,13 @@
+html{
+	display: flex;
+	flex-direction: column;
+}
+
+body{
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+	align-items: space-around;
+	margin-top: 5%;
+    background: linear-gradient(to left, #903000, #CC8F00);
+}
